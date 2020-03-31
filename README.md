@@ -1,2 +1,2 @@
 # Client-Unique-Identier
-track clients and transaction
+track client and transactions using standard HTTP headers.
